@@ -1,4 +1,5 @@
 files-challenge
 ===============
 
-info 343 Files Challenge
+Info 343 Files Challenge
+Hi TA, hope you  are having fun grading these assignments :)
